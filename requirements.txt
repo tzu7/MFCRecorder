@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 blessings
 
 
@@ -21,27 +20,3 @@ gevent
 
 
 git+https://github.com/Damianonymous/mfcauto.py@master
-=======
-blessings
-
-
-requests
-
-
-livestreamer
-
-
-flask
-
-
-flask-scss
-
-
-colorama
-
-
-gevent
-
-
-git+https://github.com/Damianonymous/mfcauto.py@master
->>>>>>> 37c71474d232157283fd3762d13b09dbfc92c6a0
